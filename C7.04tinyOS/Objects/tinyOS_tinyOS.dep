@@ -1,0 +1,118 @@
+Dependencies for Project 'tinyOS', Target 'tinyOS': (DO NOT MODIFY !)
+F (.\Source\main.c)(0x67978FE3)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (Source\tinyOS.h)(0x67974083)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (Source\tLib.h)(0x6794CFC7)
+I (Source\tConfig.h)(0x5A0E8B1E)
+I (Source\tEvent.h)(0x67963896)
+I (Source\tTask.h)(0x6794E4FF)
+I (Source\tSem.h)(0x6795EFC3)
+I (Source\tMbox.h)(0x6798B0CC)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x58984992)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x58984992)
+F (.\Source\switch.c)(0x6794F63C)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\switch.o --omf_browse .\objects\switch.crf --depend .\objects\switch.d)
+I (Source\tinyOS.h)(0x67974083)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (Source\tLib.h)(0x6794CFC7)
+I (Source\tConfig.h)(0x5A0E8B1E)
+I (Source\tEvent.h)(0x67963896)
+I (Source\tTask.h)(0x6794E4FF)
+I (Source\tSem.h)(0x6795EFC3)
+I (Source\tMbox.h)(0x6798B0CC)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x58984992)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x58984992)
+F (.\Source\tBitmap.c)(0x5A0E8B1E)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\tbitmap.o --omf_browse .\objects\tbitmap.crf --depend .\objects\tbitmap.d)
+I (Source\tLib.h)(0x6794CFC7)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+F (.\Source\tList.c)(0x6794CFA3)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\tlist.o --omf_browse .\objects\tlist.crf --depend .\objects\tlist.d)
+I (Source\tLib.h)(0x6794CFC7)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+F (.\Source\tCPU.c)(0x6794DD49)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\tcpu.o --omf_browse .\objects\tcpu.crf --depend .\objects\tcpu.d)
+I (Source\tinyOS.h)(0x67974083)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (Source\tLib.h)(0x6794CFC7)
+I (Source\tConfig.h)(0x5A0E8B1E)
+I (Source\tEvent.h)(0x67963896)
+I (Source\tTask.h)(0x6794E4FF)
+I (Source\tSem.h)(0x6795EFC3)
+I (Source\tMbox.h)(0x6798B0CC)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x58984992)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x58984992)
+F (.\Source\tTime.c)(0x6794F691)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\ttime.o --omf_browse .\objects\ttime.crf --depend .\objects\ttime.d)
+I (Source\tinyOS.h)(0x67974083)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (Source\tLib.h)(0x6794CFC7)
+I (Source\tConfig.h)(0x5A0E8B1E)
+I (Source\tEvent.h)(0x67963896)
+I (Source\tTask.h)(0x6794E4FF)
+I (Source\tSem.h)(0x6795EFC3)
+I (Source\tMbox.h)(0x6798B0CC)
+F (.\Source\tApp.c)(0x6798B64E)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\tapp.o --omf_browse .\objects\tapp.crf --depend .\objects\tapp.d)
+I (Source\tinyOS.h)(0x67974083)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (Source\tLib.h)(0x6794CFC7)
+I (Source\tConfig.h)(0x5A0E8B1E)
+I (Source\tEvent.h)(0x67963896)
+I (Source\tTask.h)(0x6794E4FF)
+I (Source\tSem.h)(0x6795EFC3)
+I (Source\tMbox.h)(0x6798B0CC)
+F (.\Source\tTask.c)(0x67949406)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\ttask.o --omf_browse .\objects\ttask.crf --depend .\objects\ttask.d)
+I (Source\tinyOS.h)(0x67974083)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (Source\tLib.h)(0x6794CFC7)
+I (Source\tConfig.h)(0x5A0E8B1E)
+I (Source\tEvent.h)(0x67963896)
+I (Source\tTask.h)(0x6794E4FF)
+I (Source\tSem.h)(0x6795EFC3)
+I (Source\tMbox.h)(0x6798B0CC)
+F (.\Source\tConfig.h)(0x5A0E8B1E)()
+F (.\Source\tinyOS.h)(0x67974083)()
+F (.\Source\tLib.h)(0x6794CFC7)()
+F (.\Source\tEvent.h)(0x67963896)()
+F (.\Source\tEvent.c)(0x6795A4E1)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\tevent.o --omf_browse .\objects\tevent.crf --depend .\objects\tevent.d)
+I (Source\tinyOS.h)(0x67974083)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (Source\tLib.h)(0x6794CFC7)
+I (Source\tConfig.h)(0x5A0E8B1E)
+I (Source\tEvent.h)(0x67963896)
+I (Source\tTask.h)(0x6794E4FF)
+I (Source\tSem.h)(0x6795EFC3)
+I (Source\tMbox.h)(0x6798B0CC)
+F (.\Source\tTask.h)(0x6794E4FF)()
+F (.\Source\tSem.c)(0x67964CEA)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\tsem.o --omf_browse .\objects\tsem.crf --depend .\objects\tsem.d)
+I (Source\tinyOS.h)(0x67974083)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (Source\tLib.h)(0x6794CFC7)
+I (Source\tConfig.h)(0x5A0E8B1E)
+I (Source\tEvent.h)(0x67963896)
+I (Source\tTask.h)(0x6794E4FF)
+I (Source\tSem.h)(0x6795EFC3)
+I (Source\tMbox.h)(0x6798B0CC)
+F (.\Source\tSem.h)(0x6795EFC3)()
+F (.\Source\tMbox.h)(0x6798B0CC)()
+F (.\Source\tMbox.c)(0x6798B11B)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\tmbox.o --omf_browse .\objects\tmbox.crf --depend .\objects\tmbox.d)
+I (Source\tinyOS.h)(0x67974083)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (Source\tLib.h)(0x6794CFC7)
+I (Source\tConfig.h)(0x5A0E8B1E)
+I (Source\tEvent.h)(0x67963896)
+I (Source\tTask.h)(0x6794E4FF)
+I (Source\tSem.h)(0x6795EFC3)
+I (Source\tMbox.h)(0x6798B0CC)
+F (RTE\Device\ARMCM3\startup_ARMCM3.s)(0x5A0E8B1E)(--cpu Cortex-M3 --li -g --apcs=interwork -I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "ARMCM3 SETA 1"--list .\listings\startup_armcm3.lst --xref -o .\objects\startup_armcm3.o --depend .\objects\startup_armcm3.d)
+F (RTE\Device\ARMCM3\system_ARMCM3.c)(0x5A0E8B1E)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I.\RTE\_tinyOS-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM3-o .\objects\system_armcm3.o --omf_browse .\objects\system_armcm3.crf --depend .\objects\system_armcm3.d)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x58984992)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (D:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x58984992)
